@@ -1,0 +1,10 @@
+
+echo "--------------------------------------------"
+echo "MASSDNS INSTALLATION REQUIRED"
+echo "--------------------------------------------"
+echo "puredns requires massdns to function correctly."
+echo "Please follow the steps below to install massdns:"
+echo "1. git clone https://github.com/blechschmidt/massdns.git"
+echo "2. cd massdns && make"
+echo "3. sudo cp bin/massdns /usr/local/bin/"
+echo "4. Ensure massdns is in your PATH"
