@@ -1,0 +1,14 @@
+{
+    "chaos_client_plugin": {
+        "enabled": true,
+        "api_key": "YOUR_CHAOS_API_KEY"
+    },
+    "haktrails_plugin": {
+        "enabled": false,
+        "api_key": "YOUR_HAKTRAILS_API_KEY"
+    },
+    "test_plugin": {
+        "enabled": true,
+        "api_key": ""
+    }
+}
